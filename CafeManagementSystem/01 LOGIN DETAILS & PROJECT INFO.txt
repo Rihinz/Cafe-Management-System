@@ -1,0 +1,23 @@
+**Welcome to Cafe Management System!***
+
+**Database Name: rposystem**
+
+**Developed by Farihin Mukmin**
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: admin123
+
+**Cashier Login Details**
+
+Email	: cashier@mail.com
+Password: cashier01
+
+**Customer Login Details**
+1. Register by click Create Account
+2. Login with created account 
+
